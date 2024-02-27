@@ -1,0 +1,82 @@
+.title {
+    text-align: center;
+    margin-top: 96px;
+}
+
+.title h1 {
+    font-size: 36px;
+}
+
+.about-me {
+    color: #868e96;
+    font-size: 18px;
+    max-width: 750px;
+    display: inline-block;
+}
+
+.project {
+    width: 50%;
+    margin: 96px auto;
+    background-color: #f8f9fa;
+    padding: 32px;
+    overflow: hidden;
+}
+
+.project-image {
+    width: 50%;
+    float: left;
+}
+
+.project-image img {
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 5%;
+}
+
+.project-information {
+    width: 50%;
+    float: left;
+}
+
+.project-name {
+    font-size: 36px;
+    margin-bottom: 8px;
+}
+
+.project-description {
+    font-size: 20px;
+    text-align: left;
+}
+
+.specifications {
+    font-size: 20px;
+    margin: 48px 0 12px 0;
+    font-weight: bold;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 8px;
+}
+
+li {
+    font-size: 20px;
+}
+
+footer {
+    padding: 0 24px;
+    margin: 256px 0 8px 0;
+    overflow: hidden;
+}
+
+.footer-text {
+    display: inline;
+    font-size: 18px;
+}
+
+footer a {
+    float: right;
+    font-size: 18px;
+}
