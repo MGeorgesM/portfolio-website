@@ -1,24 +1,24 @@
 .title {
     text-align: center;
-    margin-top: 96px;
+    margin-top: 64px;
 }
 
 .title h1 {
-    font-size: 36px;
+    font-size: 24px;
 }
 
 .about-me {
     color: #868e96;
-    font-size: 18px;
+    font-size: 14px;
     max-width: 750px;
     display: inline-block;
 }
 
 .project {
     width: 50%;
-    margin: 96px auto;
+    margin: 64px auto;
     background-color: #f8f9fa;
-    padding: 32px;
+    padding: 24px;
     overflow: hidden;
 }
 
@@ -41,42 +41,42 @@
 }
 
 .project-name {
-    font-size: 36px;
+    font-size: 24px;
     margin-bottom: 8px;
 }
 
 .project-description {
-    font-size: 20px;
+    font-size: 16px;
     text-align: left;
 }
 
 .specifications {
-    font-size: 20px;
-    margin: 48px 0 12px 0;
+    font-size: 16px;
+    margin: 24px 0 4px 0;
     font-weight: bold;
 }
 
 ul {
     list-style-position: inside;
-    padding-left: 8px;
+    padding-left: 4px;
 }
 
 li {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 footer {
     padding: 0 24px;
-    margin: 256px 0 8px 0;
+    margin: 128px 0 8px 0;
     overflow: hidden;
 }
 
 .footer-text {
     display: inline;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 footer a {
     float: right;
-    font-size: 18px;
+    font-size: 14px;
 }
